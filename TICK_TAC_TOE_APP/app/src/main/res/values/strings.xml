@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tick_Tac_Toe</string>
+    <string name="title_name">----TICK TAC TOE----</string>
+    <string name="space"> </string>
+    <string name="tictable">TIC_TAC_TOE_BOARD</string>
+    <string name="clickableImage">clickable </string>
+</resources>
